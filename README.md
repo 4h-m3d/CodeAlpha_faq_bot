@@ -19,9 +19,9 @@ The bot uses **natural language processing (NLP)** and **cosine similarity (TF-I
 
 ## 📸 Screenshot
 
-*(Add a screenshot of your chatbot window here once running — e.g., press PrtSc and save as `screenshot.png`)*
+*(Add a screenshot of your chatbot window here once running — e.g., press PrtSc and save as `Screenshot.png`)*
 
-![Chatbot Screenshot](screenshot.png)
+![Chatbot Screenshot](Screenshot.png)
 
 ---
 
